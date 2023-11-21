@@ -42,7 +42,7 @@ with left_column:
             - looks for a way to leverage the power of Python.
             - love challengers.
             - believe that everyone can learn Programming.
-            - strife to be a better self.
+            - strive to be a better self.
 
             """
     )
